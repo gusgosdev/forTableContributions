@@ -1,7 +1,9 @@
 print('Hola')
 
 class Hola():
-  def crear_saludo(self):
+  def crear_saludo(self, nombre, edad):
+    self.nombre = nombre
+    
     
 
 
