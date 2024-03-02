@@ -6,6 +6,8 @@ class Hola():
     self.edad = edad
 
   def mostrar_saludo(self):
+    print(f'''Saludo:
     
+    ''')
 
 
