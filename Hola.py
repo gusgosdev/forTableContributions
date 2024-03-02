@@ -1,6 +1,7 @@
 print('Hola')
 
 class Hola():
-  def 
+  def crear_saludo(self):
+    
 
 
