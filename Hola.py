@@ -7,7 +7,7 @@ class Hola():
 
   def mostrar_saludo(self):
     print(f'''Saludo:
-    Hola {self.nombre}
+    Hola {self.nombre}, tienes
     ''')
 
 
