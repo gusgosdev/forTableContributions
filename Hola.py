@@ -1,5 +1,6 @@
 print('Hola')
 
+class Hola():
 
 
 
